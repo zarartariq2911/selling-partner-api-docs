@@ -402,7 +402,7 @@ Body parameters:
 Request example:
 
 ```
-POST https://sellingpartnerapi-na.amazon.com/ notifications/v1/subscriptions/BRANDED_ITEM_CONTENT_CHANGE
+POST https://sellingpartnerapi-na.amazon.com/notifications/v1/subscriptions/BRANDED_ITEM_CONTENT_CHANGE
 {
   "payloadVersion":"1.0",
   "destinationId":"3acafc7e-121b-1329-8ae8-1571be663aa2"
